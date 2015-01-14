@@ -1,0 +1,75 @@
+html, body
+{
+    height:100%;
+    width:100%;
+}
+
+
+#Myself
+{
+    background:url(../../Me.jpg) no-repeat fixed;
+    height:100%;
+    width:100%;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative;
+    
+}
+
+#Myself p
+{
+    color: white;
+    position:absolute;
+	left:680px;
+    top:299px;
+   
+    
+}
+p
+{
+   
+    font-size: 34px;
+    bottom: 213px;
+}
+.body
+{
+    font-size:80px;
+    background: transparent;
+}
+
+img {
+border: 0;
+width: 99%;
+}
+
+.text-coloracademic
+{
+    top:225px;
+   color:#A81F03;
+    font-size: 14px;
+    background:transparent;
+}
+#Academics
+{
+   background:url(../../books2.jpg) no-repeat fixed;
+    height:100%;
+    width:100%;
+    -webkit-background-size:cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position:relative;
+     
+}
+.text-academics
+{
+    top:111px;
+}
+.backcolor-academics
+{
+     
+    color:black;
+    width:100%;
+}
